@@ -1,3 +1,2 @@
-# slideshow-website
-my parsonal web test slideshow
+atik hasan
 https://atikhasan085213.github.io/slideshow-website/
